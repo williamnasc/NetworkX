@@ -69,3 +69,4 @@ print(sequencia)
 plt.figure(1)
 nx.draw_networkx(G, pos=nx.spring_layout(G), with_labels=True)
 plt.show()
+
